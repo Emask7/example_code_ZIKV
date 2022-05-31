@@ -1,6 +1,12 @@
-library(DESeq2)
 library(openxlsx)
 library(ggplot2)
+library(DESeq2)
 library(apeglm)
 library(AnnotationDbi)
 library(org.Hs.eg.db)
+
+
+BiocManager::install(DESeq2)
+BiocManager::install(apeglm)
+BiocManager::install(AnnotationDbi)
+BiocManager::install(org.Hs.eg.db)
