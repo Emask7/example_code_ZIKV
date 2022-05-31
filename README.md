@@ -4,4 +4,5 @@ The analysis follows methods detailed in the DESeq2 user manual (http://biocondu
 Run analysis from the following files in this order:
 1. data_import.R
       In this file, you import raw gene counts and sample information from Excel files, then run PCA to identify outliers in the data
-2. 
+2. differential_expression_analysis.R
+      In this file, you run DE analysis using the default options from DESeq2 and the LFC shrinkage option from DESeq2, then save the results

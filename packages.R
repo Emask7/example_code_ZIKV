@@ -1,3 +1,6 @@
 library(DESeq2)
 library(openxlsx)
 library(ggplot2)
+library(apeglm)
+library(AnnotationDbi)
+library(org.Hs.eg.db)

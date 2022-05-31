@@ -112,3 +112,8 @@
   dds <- DESeqDataSetFromMatrix(countData = cts,
                                 colData = coldata,
                                 design = ~ animal + timepoint)
+
+  # Because we want to compare day 15 vs 3, we have to set up a separate
+  # DESeqDataSet, then use relevel() to change the reference level to day 3
+    dds_15v3 <- dds
+    dds_15v3$timepoint <- relevel(dds_15v3$timepoint, ref = "T3")
