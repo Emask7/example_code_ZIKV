@@ -5,7 +5,6 @@ library(apeglm)
 library(AnnotationDbi)
 library(org.Hs.eg.db)
 
-
 BiocManager::install(DESeq2)
 BiocManager::install(apeglm)
 BiocManager::install(AnnotationDbi)
