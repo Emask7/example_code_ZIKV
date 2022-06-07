@@ -1,0 +1,45 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IFIT1	interferon induced protein with tetratricopeptide repeats 1 [Source:HGNC Symbol;Acc:HGNC:5407]	13	1.9352164268493652	0.07471935	Yes	
+row_1	OASL	2'-5'-oligoadenylate synthetase like [Source:HGNC Symbol;Acc:HGNC:8090]	24	1.7755807638168335	0.14343132	Yes	
+row_2	MX1	MX dynamin like GTPase 1 [Source:HGNC Symbol;Acc:HGNC:7532]	40	1.5805925130844116	0.2041034	Yes	
+row_3	EIF2AK2	eukaryotic translation initiation factor 2 alpha kinase 2 [Source:HGNC Symbol;Acc:HGNC:9437]	47	1.545393705368042	0.2641266	Yes	
+row_4	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	97	1.3277446031570435	0.31214324	Yes	
+row_5	OAS1	2'-5'-oligoadenylate synthetase 1 [Source:HGNC Symbol;Acc:HGNC:8086]	112	1.2631568908691406	0.36046723	Yes	
+row_6	RSAD2	radical S-adenosyl methionine domain containing 2 [Source:HGNC Symbol;Acc:HGNC:30908]	218	1.0684295892715454	0.39379236	Yes	
+row_7	OAS2	2'-5'-oligoadenylate synthetase 2 [Source:HGNC Symbol;Acc:HGNC:8087]	223	1.0600359439849854	0.43497363	Yes	
+row_8	IFIT5	interferon induced protein with tetratricopeptide repeats 5 [Source:HGNC Symbol;Acc:HGNC:13328]	317	0.9793823957443237	0.46578458	Yes	
+row_9	OAS3	2'-5'-oligoadenylate synthetase 3 [Source:HGNC Symbol;Acc:HGNC:8088]	430	0.8945667147636414	0.4917349	Yes	
+row_10	FAM111A	FAM111 trypsin like peptidase A [Source:HGNC Symbol;Acc:HGNC:24725]	726	0.7515273690223694	0.49725473	Yes	
+row_11	PLSCR1	phospholipid scramblase 1 [Source:HGNC Symbol;Acc:HGNC:9092]	848	0.7069202661514282	0.5151285	Yes	
+row_12	RNASEL	ribonuclease L [Source:HGNC Symbol;Acc:HGNC:10050]	1256	0.5877793431282043	0.5051606	Yes	
+row_13	BST2	bone marrow stromal cell antigen 2 [Source:HGNC Symbol;Acc:HGNC:1119]	1285	0.5796273350715637	0.5255867	Yes	
+row_14	APOBEC3G	apolipoprotein B mRNA editing enzyme catalytic subunit 3G [Source:HGNC Symbol;Acc:HGNC:17357]	1498	0.5376405715942383	0.529458	Yes	
+row_15	MORC2	MORC family CW-type zinc finger 2 [Source:HGNC Symbol;Acc:HGNC:23573]	1698	0.49759069085121155	0.53281456	Yes	
+row_16	IFIH1	interferon induced with helicase C domain 1 [Source:HGNC Symbol;Acc:HGNC:18873]	1923	0.45757365226745605	0.5325784	No	
+row_17	MAVS	mitochondrial antiviral signaling protein [Source:HGNC Symbol;Acc:HGNC:29233]	2346	0.3931686580181122	0.51377505	No	
+row_18	ISG20	interferon stimulated exonuclease gene 20 [Source:HGNC Symbol;Acc:HGNC:6130]	2657	0.3502212166786194	0.5023663	No	
+row_19	TRIM28	tripartite motif containing 28 [Source:HGNC Symbol;Acc:HGNC:16384]	3242	0.27757924795150757	0.46590906	No	
+row_20	INPP5K	inositol polyphosphate-5-phosphatase K [Source:HGNC Symbol;Acc:HGNC:33882]	3409	0.25957271456718445	0.46262038	No	
+row_21	IFI16	interferon gamma inducible protein 16 [Source:HGNC Symbol;Acc:HGNC:5395]	3414	0.25863656401634216	0.47242308	No	
+row_22	APOBEC3A	apolipoprotein B mRNA editing enzyme catalytic subunit 3A [Source:HGNC Symbol;Acc:HGNC:17343]	3450	0.25410208106040955	0.47953606	No	
+row_23	APOBEC3F	apolipoprotein B mRNA editing enzyme catalytic subunit 3F [Source:HGNC Symbol;Acc:HGNC:17356]	3738	0.22184422612190247	0.4649646	No	
+row_24	RESF1	retroelement silencing factor 1 [Source:HGNC Symbol;Acc:HGNC:25559]	3827	0.21285392343997955	0.46616754	No	
+row_25	ZNFX1	zinc finger NFX1-type containing 1 [Source:HGNC Symbol;Acc:HGNC:29271]	3868	0.20913779735565186	0.47111478	No	
+row_26	TASOR	transcription activation suppressor [Source:HGNC Symbol;Acc:HGNC:30314]	4015	0.19379429519176483	0.4668713	No	
+row_27	AICDA	activation induced cytidine deaminase [Source:HGNC Symbol;Acc:HGNC:13203]	5259	0.07914379239082336	0.36924082	No	
+row_28	APOBEC3H	apolipoprotein B mRNA editing enzyme catalytic subunit 3H [Source:HGNC Symbol;Acc:HGNC:24100]	5318	0.07377465814352036	0.3674293	No	
+row_29	MPHOSPH8	M-phase phosphoprotein 8 [Source:HGNC Symbol;Acc:HGNC:29810]	5886	0.022603126242756844	0.32236615	No	
+row_30	ILF3	interleukin enhancer binding factor 3 [Source:HGNC Symbol;Acc:HGNC:6038]	6289	-0.011742674745619297	0.29024896	No	
+row_31	SETDB1	SET domain bifurcated histone lysine methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10761]	6854	-0.06071626767516136	0.24692126	No	
+row_32	BANF1	BAF nuclear assembly factor 1 [Source:HGNC Symbol;Acc:HGNC:17397]	7305	-0.09783116728067398	0.21428503	No	
+row_33	APOBEC3D	apolipoprotein B mRNA editing enzyme catalytic subunit 3D [Source:HGNC Symbol;Acc:HGNC:17354]	8001	-0.16136793792247772	0.16428244	No	
+row_34	CCL5	C-C motif chemokine ligand 5 [Source:HGNC Symbol;Acc:HGNC:10632]	8462	-0.2049015760421753	0.13502815	No	
+row_35	SHFL	shiftless antiviral inhibitor of ribosomal frameshifting [Source:HGNC Symbol;Acc:HGNC:25649]	8467	-0.20538218319416046	0.14274567	No	
+row_36	N4BP1	NEDD4 binding protein 1 [Source:HGNC Symbol;Acc:HGNC:29850]	8552	-0.2130143791437149	0.14427906	No	
+row_37	SRPK1	SRSF protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:11305]	9092	-0.2702276110649109	0.11118065	No	
+row_38	TNIP1	TNFAIP3 interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:16903]	9669	-0.3409093916416168	0.077851385	No	
+row_39	APOBEC3C	apolipoprotein B mRNA editing enzyme catalytic subunit 3C [Source:HGNC Symbol;Acc:HGNC:17353]	9820	-0.3621383309364319	0.07987521	No	
+row_40	PROX1	prospero homeobox 1 [Source:HGNC Symbol;Acc:HGNC:9459]	10784	-0.5063435435295105	0.02166204	No	
+row_41	SRPK2	SRSF protein kinase 2 [Source:HGNC Symbol;Acc:HGNC:11306]	11731	-0.7274141311645508	-0.02651754	No	
+row_42	ZC3HAV1	"zinc finger CCCH-type containing, antiviral 1 [Source:HGNC Symbol;Acc:HGNC:23721]"	12061	-0.8807975053787231	-0.01869144	No	
+row_43	LTF	lactotransferrin [Source:HGNC Symbol;Acc:HGNC:6720]	12281	-1.141732096672058	0.008265581	No	
